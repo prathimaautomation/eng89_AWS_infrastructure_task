@@ -1,5 +1,5 @@
 # Creating AWS INFRASTRUCTURE using Virtual Private Cloud on AWS along with BASTION SERVER
-![](AWS_Infrastructure.png)
+![](AWS_infrastructure.png)
 ## Steps:
 - Create a VPC 'eng89_infra_prathima_vpc' with CIDR 10.210.0.0/16
 - Create an Internet Gateway 'eng89_infra_prathima_ig' and attach our VPC created.
